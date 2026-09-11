@@ -57,4 +57,6 @@ Before running the code, ensure you have the following dependencies installed:
 =======
 # VoiceGPT-RAG-Assistant
 An AI-powered voice assistant built with Python, Ollama, Faster-Whisper, Qdrant, and LlamaIndex. Supports speech-to-text, RAG-based knowledge retrieval, local LLM inference, and text-to-speech for real-time conversational interactions.
+<img width="1472" height="1432" alt="image" src="https://github.com/user-attachments/assets/7908ef77-65d9-48b2-a421-55fb14f104de" />
+
 >>>>>>> b6d0cb78a7b7ef6e30b9309a83d8f7bce1e05408

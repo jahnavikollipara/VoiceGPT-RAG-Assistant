@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Build Real-Time AI Voice Assistant With RAG Pipeline And Memory | Mistral LLM | Ollama
 
 This repository contains code for a voice assistant that interacts with an AI model for natural language understanding (NLU). The assistant is designed to record audio input from users, transcribe it, and then interact with the AI model to provide relevant responses.
@@ -88,5 +87,3 @@ An AI-powered voice assistant built with Python, Ollama, Faster-Whisper, Qdrant,
 ## 12. OUTPUT:
 <img width="801" height="231" alt="image" src="https://github.com/user-attachments/assets/bd48df66-126f-4e1c-a3a9-5ab2d28752d5" />
 
-
->>>>>>> b6d0cb78a7b7ef6e30b9309a83d8f7bce1e05408

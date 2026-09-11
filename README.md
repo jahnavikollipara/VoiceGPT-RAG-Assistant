@@ -82,6 +82,11 @@ The project uses the following technologies:
 An AI-powered voice assistant built with Python, Ollama, Faster-Whisper, Qdrant, and LlamaIndex. Supports speech-to-text, RAG-based knowledge retrieval, local LLM inference, and text-to-speech for real-time conversational interactions.
 
 
+## 5. Architecture Diagram
 <img width="1472" height="1432" alt="image" src="https://github.com/user-attachments/assets/7908ef77-65d9-48b2-a421-55fb14f104de" />
+
+## 12. OUTPUT:
+<img width="801" height="231" alt="image" src="https://github.com/user-attachments/assets/bd48df66-126f-4e1c-a3a9-5ab2d28752d5" />
+
 
 >>>>>>> b6d0cb78a7b7ef6e30b9309a83d8f7bce1e05408

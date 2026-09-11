@@ -1,0 +1,120 @@
+Restaurant Name: Software Restaurant
+
+Location: Hitech City, Hyderabad
+
+Opening Hours:
+Monday - Sunday
+8:00 AM to 11:00 PM
+
+--------------------------------------------------
+South Indian Menu
+--------------------------------------------------
+
+Idli (2 Pieces)  ₹30
+Medu Vada (2 Pieces)  ₹40
+Plain Dosa  ₹50
+Masala Dosa  ₹80
+Onion Dosa  ₹90
+Rava Dosa  ₹90
+Set Dosa  ₹70
+Podi Dosa  ₹100
+Uttapam  ₹90
+Poori with Curry  ₹70
+Upma  ₹50
+Pongal  ₹70
+
+--------------------------------------------------
+North Indian Menu
+--------------------------------------------------
+
+Aloo Paratha  ₹80
+Paneer Paratha  ₹120
+Butter Naan  ₹50
+Garlic Naan  ₹60
+Jeera Rice  ₹150
+Veg Fried Rice  ₹170
+Paneer Butter Masala  ₹240
+Dal Tadka  ₹180
+Veg Biryani  ₹220
+
+--------------------------------------------------
+Chinese Menu
+--------------------------------------------------
+
+Veg Noodles - ₹180
+Hakka Noodles - ₹190
+Veg Fried Rice - ₹170
+Gobi Manchurian - ₹190
+Paneer Manchurian - ₹240
+Spring Rolls - ₹180
+
+--------------------------------------------------
+Fast Food
+--------------------------------------------------
+
+Veg Burger - ₹120
+Cheese Burger - ₹150
+Veg Sandwich - ₹100
+Grilled Sandwich - ₹140
+French Fries - ₹120
+Margherita Pizza - ₹280
+Veg Supreme Pizza - ₹350
+
+--------------------------------------------------
+Desserts
+--------------------------------------------------
+
+Gulab Jamun (2 Pieces) - ₹60
+Chocolate Brownie - ₹140
+Vanilla Ice Cream - ₹90
+Chocolate Sundae - ₹150
+
+--------------------------------------------------
+Beverages
+--------------------------------------------------
+
+Mineral Water - ₹20
+Tea - ₹20
+Coffee - ₹30
+Masala Tea - ₹30
+Cold Coffee - ₹100
+Fresh Lime Soda - ₹70
+Fresh Orange Juice - ₹120
+Mango Juice - ₹120
+Pepsi - ₹40
+Coca-Cola - ₹40
+Sprite - ₹40
+Thumbs Up - ₹40
+
+--------------------------------------------------
+Restaurant Information
+--------------------------------------------------
+
+Restaurant Name: Software Restaurant
+
+Address:
+Software Restaurant,
+Hitech City,
+Hyderabad,
+Telangana - 500081
+
+Home Delivery: Available
+
+Takeaway: Available
+
+Dine-in: Available
+
+Accepted Payment Methods:
+- Cash
+- UPI
+- Credit Card
+- Debit Card
+
+Average Preparation Time:
+15–25 Minutes
+
+Contact Number:
++91 98765 43210
+
+Email:
+support@softwarerestaurant.com
